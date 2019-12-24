@@ -1,8 +1,5 @@
 <!-- docs/_sidebar.md -->
 
-
-![logo](/newklear.jpg)
-
 * [Home](/)
 * [mSL-Scripts](mSL-Scripts.md "mSL-Scripts by newklear")
 * [IRC2BC](IRC2bc.md "IRC2BC by newklear")
