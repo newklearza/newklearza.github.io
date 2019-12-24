@@ -1,7 +1,13 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
-* [mSL-Scripts](mSL-Scripts.md "mSL-Scripts by newklear")
-* [IRC2BC](IRC2bc.md "IRC2BC by newklear")
-* [Python](Python.md "Python scripts by newklear")
-* [newklearza.github.io](newklearza.github.io.md "Github webpage scripts by newklear")
+<ul style="text-align: center;">:-)</ul>
+
+- [**Home**](/)
+- **Concepts**
+  - [Testing's purpose](/concepts/testing-purpose.md)
+  - [Testing is…](/concepts/what-testing-is.md)
+  - [Testing is not…](/concepts/what-testing-is-not.md)
+  - [Tester's responsibilities](/concepts/tester-responsibilities.md)
+  - [Requirements](/concepts/requirements.md)
+  - [Testability](/concepts/testability.md)
+- **Toolbox**
