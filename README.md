@@ -8,7 +8,7 @@
 - Passionate scripts and languages are: mSL, batch, Python, Golang + the usual other common ones :-)
 
 [Find me on LinkedIN](https://www.linkedin.com/in/terrick-wright/)
-[Send me an Email](mailto:terrick.wright@gmail.com)
+[Send me an Email](mailto:terrick.wright@gmail.com?Subject=Hello%20from Github Pages)
 
 ![icon](/newklear.jpg)
 
