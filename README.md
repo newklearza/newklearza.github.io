@@ -10,6 +10,6 @@
 [Find me on LinkedIN](https://www.linkedin.com/in/terrick-wright/)
 [Send me an Email](mailto:terrick.wright@gmail.com)
 
-![icon](/newklear.png)
+![icon](/newklear.jpg)
 
 
