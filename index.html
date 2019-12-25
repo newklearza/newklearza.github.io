@@ -15,8 +15,13 @@
       window.$docsify = {
         name: "newklearza",
         repo: "https://github.com/newklearza",
-        loadSidebar: '_sidebar.md',
-        auto2top: true
+        loadSidebar: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      homepage: 'README.md',
+      search: 'auto',
+      auto2top: true
       };
     </script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
